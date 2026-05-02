@@ -3,10 +3,10 @@ import axios from 'axios';
 const BASE_URL = 'http://20.207.122.201/evaluation-service';
 
 const studentData = {
-  email: 'your_email@edu.in',
-  name: 'Your Name',
-  mobileNo: '9999999999',
-  githubUsername: 'your-github',
+  email: 'sk8406@srmist.edu.in',
+  name: 'Suren kumar',
+  mobileNo: '9360620354',
+  githubUsername: 'suren-4',
   rollNo: 'RA2311032010011',
   accessCode: 'QkbpxH',
 };
